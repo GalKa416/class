@@ -1,4 +1,8 @@
 package lesson1;
 
-public class Author {String firstName; String lastName;
-}
+public class Author {
+    public String fullName;
+
+
+    }
+

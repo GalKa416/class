@@ -1,4 +1,10 @@
 package lesson1;
 
-public class Book {String naimBook;int publicationDateBooK;
-}
+public class Book {
+    public String nameBook;
+    public int publicationDateBooK;
+
+
+
+
+    }
